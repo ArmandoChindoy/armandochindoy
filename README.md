@@ -1,8 +1,4 @@
 ### Hi there 👋 mi name is Armando
-
-<!--
-**ArmandoChindoy/armandochindoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am frontend programer who likes coding, you can check my blog to se my proyects [Blog](https://armandochindoy.github.io/)
 
 - 🔭 I’m currently working on personal proyects.
