@@ -6,4 +6,4 @@ I am frontend programer who likes coding, you can check my blog to se my proyect
 - 👯 I’m looking to collaborate on great proyects.
 - 🤔 I’m looking for a job.
 - 💬 Ask me about Frontend development
-- 📫 How to reach me: [EMAIL](mailto:armandojchindoy@gmail.com) / [INSTAGRAM](https://www.instagram.com/armandochindoy/)
+- 📫 How to reach me: [EMAIL](mailto:armandojchindoy@gmail.com) / [INSTAGRAM](https://www.instagram.com/armandochindoy/) / [LINKEDIN](https://www.linkedin.com/in/armandochindoy/)
