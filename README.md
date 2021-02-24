@@ -1,5 +1,5 @@
 ### Hi there 👋 mi name is Armando
-I am frontend programer who likes coding, you can check my blog to se my proyects [Blog](https://armandochindoy.github.io/)
+I am frontend programer who likes coding, you can check what i can do:[Mediaemo](https://armandochindoy.github.io/mediaemo/)
 
 - 🔭 I’m currently working on personal proyects.
 - 🌱 I’m currently learning in platzi.
